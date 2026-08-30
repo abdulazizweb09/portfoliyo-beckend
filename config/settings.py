@@ -132,17 +132,17 @@ CKEDITOR_5_CONFIGS = {
     }
 }
 
-JAZZMIN_SETTINGS = {
-    "site_title": "Portfoliyo Admin",
-    "site_header": "Portfoliyo",
-    "site_brand": "Portfoliyo",
-    "welcome_sign": "Portfoliyo Admin Panel",
-    "copyright": "Portfoliyo",
+# JAZZMIN_SETTINGS = {
+#     "site_title": "Portfoliyo Admin",
+#     "site_header": "Portfoliyo",
+#     "site_brand": "Portfoliyo",
+#     "welcome_sign": "Portfoliyo Admin Panel",
+#     "copyright": "Portfoliyo",
 
-    "show_sidebar": True,
-    "navigation_expanded": True,
+#     "show_sidebar": True,
+#     "navigation_expanded": True,
 
-}
+# }
 
 MIDDLEWARE = [
     'django.middleware.security.SecurityMiddleware',
